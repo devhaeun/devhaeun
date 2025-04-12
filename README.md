@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14&height=160&animation=fadeIn&section=header&text=This%20is%20devhaeun's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14&height=160&animation=fadeIn&section=header&text=This%20is%20Haeun's%20GitHub&fontSize=50)
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=devhaeun&theme=vue&show_icons=true"/>
